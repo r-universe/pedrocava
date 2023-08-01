@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "basedosdados"]
-	path = basedosdados
-	url = https://github.com/cran/basedosdados
 [submodule "Recon"]
 	path = Recon
 	url = https://github.com/pedrocava/recon
+[submodule "basedosdados"]
+	path = basedosdados
+	url = https://github.com/cran/basedosdados
